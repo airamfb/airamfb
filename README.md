@@ -8,7 +8,7 @@ Este perfil es mi espacio para compartir proyectos, modelos financieros, anális
 
 ---
 
-## 🛠️ Herramientas y habilidades
+## Herramientas y habilidades
 
 - 🐍 Python
 - 📊 Excel
@@ -20,7 +20,7 @@ Este perfil es mi espacio para compartir proyectos, modelos financieros, anális
 
 ---
 
-## 🚀 En qué estoy trabajando
+## En qué estoy trabajando
 
 - Modelos de análisis financiero
 - Proyectos de análisis de datos con Python
@@ -31,18 +31,12 @@ Este perfil es mi espacio para compartir proyectos, modelos financieros, anális
 
 ---
 
-## 👩‍💻 Un poco sobre mí
+## Un poco sobre mí
 
-- 🎓 Estudiante de Finanzas
-- 💻 Apasionada por la programación
-- 📊 Interesada en los mercados financieros
-- 🧠 Me gusta convertir datos en decisiones
-- 📚 Siempre aprendiendo algo nuevo
-- 🚀 Construyendo proyectos para llevar las finanzas y la tecnología al siguiente nivel
-## 👩‍💻 A Bit About Me
+- Estudiante de Finanzas
+- Apasionada por la programación
+- Interesada en los mercados financieros
+- Me gusta convertir datos en decisiones
+- Siempre aprendiendo algo nuevo
+- Construyendo proyectos para llevar las finanzas y la tecnología al siguiente nivel
 
-- 🎓 Finance student
-- 💻 Passionate about programming
-- 📊 Interested in financial markets and data
-- 🧠 I enjoy solving problems and making data-driven decisions
-- 🚀 Always learning and building new projects
