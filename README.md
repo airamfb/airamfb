@@ -10,13 +10,13 @@ Este perfil es mi espacio para compartir proyectos, modelos financieros, anális
 
 ## Herramientas y habilidades
 
-- 🐍 Python
-- 📊 Excel
-- 📈 Análisis financiero
-- 📉 Análisis de datos
-- 📐 Estadística
-- 💰 Mercados financieros
-- ⚠️ Análisis de riesgos
+-  Python
+-  Excel
+-  Análisis financiero
+-  Análisis de datos
+-  Estadística
+-  Mercados financieros
+-  Análisis de riesgos
 
 ---
 
